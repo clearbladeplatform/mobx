@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,mobx",
+    "logging_enabled": "false",
+    "name": "mobxSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "mobxSmokeTest.js"
+}
