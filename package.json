@@ -143,5 +143,6 @@
   "typings": "lib/mobx.d.ts",
   "umd:main": "lib/mobx.umd.js",
   "unpkg": "lib/mobx.umd.min.js",
-  "version": "5.0.3"
+  "version": "5.0.3",
+  "image": "https://i.imgur.com/dffeOhd.png"
 }
